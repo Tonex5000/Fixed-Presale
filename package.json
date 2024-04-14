@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/react": "^3.10.3",
+    "@thirdweb-dev/sdk": "^4.0.60",
+    "@web3uikit/core": "^1.1.5",
+    "bignumber.js": "^9.1.2",
+    "ethers": "^5.7.2",
+    "moralis": "^2.25.2",
+    "moralis-v1": "^1.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-moralis": "^1.4.0",
+    "react-toastify": "^10.0.5",
+    "web3": "^4.7.0",
+    "web3-eth-contract": "^4.3.0",
+    "web3modal": "^1.9.12",
+    "web3uikit": "^1.0.2",
+    "websocket": "^1.0.34"
+  }
+}
